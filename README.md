@@ -1,34 +1,31 @@
 🧩 주요 학습 내용
-React의 기본 개념: 컴포넌트, JSX, Props, State 등
+ - React의 기본 개념: 컴포넌트, JSX, Props, State 등
 
-고급 기능: React Hooks, Context API, Redux, React Router 등
 
-실습 프로젝트: 다양한 예제와 과제를 통해 실습 중심의 학습 제공
+ - 고급 기능: React Hooks, Context API, Redux, React Router 등
 
-Next.js 소개: 서버 사이드 렌더링과 정적 사이트 생성에 대한 이해
+
+ - 실습 프로젝트: 다양한 예제와 과제를 통해 실습 중심의 학습 제공
+
+
+ - Next.js 소개: 서버 사이드 렌더링과 정적 사이트 생성에 대한 이해
 
 🛠️ 기술 스택
-프론트엔드: React, JavaScript (ES6+), HTML, CSS
 
-상태 관리: Redux, Context API
+ - 프론트엔드: React, JavaScript (ES6+), HTML, CSS
 
-라우팅: React Router
 
-서버 사이드 렌더링: Next.js
+ - 상태 관리: Redux, Context API
 
-패키지 관리: npm
 
-📁 프로젝트 구조
-react-complete-guide/
-├── public/             # 정적 파일
-├── src/                # 소스 코드
-│   ├── components/     # 재사용 가능한 컴포넌트
-│   ├── pages/          # 페이지 컴포넌트
-│   ├── store/          # 상태 관리 관련 파일
-│   └── App.js          # 메인 앱 컴포넌트
-├── .gitignore          # Git 무시 파일 목록
-├── package.json        # 프로젝트 메타정보 및 의존성
-└── README.md           # 프로젝트 설명서
+ - 라우팅: React Router
+
+
+ - 서버 사이드 렌더링: Next.js
+
+
+ - 패키지 관리: npm
+
 
 
 # Getting Started with Create React App
